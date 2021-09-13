@@ -3,6 +3,8 @@ import java.util.PriorityQueue;
 import java.util.HashMap;
 import java.util.LinkedList;
 class Astar{
+    //This comment was made on a new branch
+
     //Implement wall skips later
     public static int astar(int[][] map){
         int[][] fScore = new int[map.length][map[0].length];
